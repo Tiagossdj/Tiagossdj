@@ -1,6 +1,5 @@
-## Eae, eu sou o Tiago! 👋
+## Eae! Eu sou o Tiago! 👋
 
-Estudante de Ciência da Computação e Backend Developer!
 
 | <a href="https://github.com/Tiagossdj"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tiagossdj&show_icons=true&theme=holi&rank_icon=github&hide=contribs,prs&card_width=400" alt="Tiago's github stats" /></a> | <a href="https://github.com/Tiagossdj"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagossdj&layout=compact&theme=holi&card_width=400&langs_count=6" alt="Top Languages" /></a> |
 | ------------- | ------------- |
